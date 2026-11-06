@@ -1,10 +1,10 @@
 {
   "name": "auto-ammo-configurator",
-  "version": "0.0.2",
-  "factorio_version": "2.0",
+  "version": "0.0.3",
+  "factorio_version": "2.1",
   "title": "Ammo Auto Loader Configurator",
   "author": "Luke Attard",
-  "description": "Adds a configurable option to increase ammo that is loaded by inserters.",
+  "description": "Adds a configurable option to increase ammo that is loaded by inserters. In version 0.0.3 added the option to also increase the number of Slots for Gun and Rocket Turrents.",
   "dependencies": ["base"]
 }
 
